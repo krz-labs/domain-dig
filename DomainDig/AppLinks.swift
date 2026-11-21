@@ -9,8 +9,8 @@ enum AppLinks {
     /// App Store numeric identifier; the listing/review/share URLs derive from it.
     static let appStoreID = "6760368004"
 
-    static let sourceCode = url("https://github.com/krazywarez/domain-dig")
-    static let documentation = url("https://github.com/krazywarez/domain-dig#readme")
+    static let sourceCode = url("https://github.com/krz-labs/domain-dig")
+    static let documentation = url("https://github.com/krz-labs/domain-dig#readme")
     static let privacyPolicy = url("https://krz.sh/privacy/domain-dig/")
     static let termsOfUse = url("https://www.apple.com/legal/internet-services/itunes/dev/stdeula/")
     static let supportEmail = "root@krz.sh"

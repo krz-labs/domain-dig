@@ -29,7 +29,7 @@ hosted backend required.
 needs xcode with a current ios sdk and a simulator or device.
 
 #+begin_src sh
-git clone https://github.com/krazywarez/domain-dig.git
+git clone https://github.com/krz-labs/domain-dig.git
 #+end_src
 
 open DomainDig.xcodeproj, pick the DomainDig scheme, build and run.
